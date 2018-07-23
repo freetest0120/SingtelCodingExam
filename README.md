@@ -14,4 +14,4 @@ Running the application
 2. Change the directory to the location of *SingtelCodingExam.jar*
 3. Run command: 'java -jar SingtelCodingExam.jar'
 
-![alt text](https://github.com/freetest0120/SingtelCodingExam/blob/master/Output.jpg)
+![alt text](https://github.com/freetest0120/SingtelCodingExam/blob/master/Output.png)
